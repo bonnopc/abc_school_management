@@ -2,9 +2,9 @@
 This project is built with PHP, JS, Bootstrap & MySQL. This app works to connect school management, stuffs (teacher, accounts) and students. Different user types included and public can submit forms for admission.
 
 User Types
-*Users - Students
-*Admins - Stuffs (teachers & accounts)
-*Super Admins - Management Committee
+* Users - *Students*
+* Admins - *Stuffs (teachers & accounts)*
+* Super Admins - *Management Committee*
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
