@@ -1,0 +1,137 @@
+header, footer {
+    padding: 1em;
+    color: black;
+    clear: left;
+    text-align: center;
+    background-color: #135331;
+
+}
+
+footer {
+    position: relative;
+    top: 30px;
+}
+
+#parent_div_1{
+    height:100px;
+    margin-right:10px;
+    float:left;
+}
+
+
+body {
+    background-attachment: fixed;
+    background-image: url("files/abc_background.jpg");
+    background-size: 100%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 150%;
+}
+
+
+div.container {
+    position: relative;
+    top: 45px;
+    padding-top: 45px;
+    margin: auto;
+    width: 60%;
+    background-color: #229156;
+    border-radius: 5px;
+}
+
+
+h2.head {
+    text-align: center;
+    text-orientation: bold;
+}
+
+.postTitle {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+
+a {
+    color: #003300;
+    text-decoration: bold;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    position: absolute;
+    top: -70px;
+}
+
+.navbar-inverse {
+    background-color: #135331;
+    border: none;
+}
+
+.navbar-inverse .navbar-nav > li.dropdown:hover > a, 
+.navbar-inverse .navbar-nav > li.dropdown:hover > a:hover,
+.navbar-inverse .navbar-nav > li.dropdown:hover > a:focus {
+    background-color: black;
+}
+li.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu, .dropdown-menu li {
+    background-color: black;
+}
+
+.pagetitle {
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.pagetitle h1, .pagetitle h4 {
+    color: white;
+}
+
+.table th {
+   text-align: center;   
+}
+
+.affix {
+    top:65px;
+    position:fixed;
+    width: 58%;
+    padding-right: 4px;
+}
+
+.pagefooter a:hover {
+    color: #1a1a1a;
+}
+
+
+.pagetitle a:link {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    text-shadow: 2px 1px 2px #555;
+    font-weight: bold;
+}
+
+.pagetitle a:hover {
+    color: white;
+    text-shadow: 2px 3px 2px #555;
+}
+
+
+.pagetitle, .pagefooter {
+    padding: 5px;
+}
+
+.pagefooter {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.formcontainer {
+    padding-bottom: 10px;
+    margin: auto;
+    width: 60%;
+}
