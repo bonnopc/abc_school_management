@@ -75,7 +75,7 @@ Then, browse the [index.php](https://localhost/abc_school_management/index.php) 
 * jQuery Smart Wizard
 
 ## Authors
-    - **Prosenjit Chowdhury** - *initial work* - [bonnopc](https://github.com/bonnopc)
+- **Prosenjit Chowdhury** - *initial work* - [bonnopc](https://github.com/bonnopc)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details
